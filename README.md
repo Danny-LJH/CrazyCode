@@ -1,6 +1,8 @@
 # CrazyCode
 闲了就写点东西, 记录下!
 
+### [2019-01-04  004__Redis5集群搭建](杂项/002_redis5集群搭建)
+
 ### [2018-12-25  003__Java图片文字识别](Java/image-to-text)
 
 ### [2018-12-23  002__百度AI图片搜索](Java/baidu_ai-image_search)
